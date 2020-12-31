@@ -1,4 +1,4 @@
-## Prompts the user for 2 lines to be displayed and puts them in a banner with stars and a slight bounce up and down
+## Prompts the user for 2 lines to be displayed and then displays them in a banner with stars and a slight bounce up & down
 
 ### Uses:
 
